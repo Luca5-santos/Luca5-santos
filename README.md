@@ -1,4 +1,4 @@
-### Oi! Eu sou o Lucas Gabriel dos Santos, iniciando os estudos em programação,em busca de oportunidades e desafios...👋
+### Oi! Eu sou o Lucas Gabriel dos Santos, iniciando os estudos em programação e em busca de oportunidades e desafios...👋
 
 ##
 
@@ -7,18 +7,18 @@
 
 Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca5-santos&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca5-santos)](https://github.com/edilsonfsp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca5-santos)](https://github.com/Luca5-santos/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca5-santos&layout=compact)
 
 
 -->
-- 🔭 No momento estou em busca de uma oportunidade de trabalho ...
-- 🌱 Estou cursando Analise e Desenvolvimento de Sistemas...
+- 🔭 No momento estou em busca de oportunidades para expandir meus conhecimentos ...
+- 🌱 Estou cursando o 3° Semestre de Analise e Desenvolvimento de Sistemas...
 - 👯 Estou a procura de participação em projetos sem fins lucrativos, como voluntário, para busca de conhecimento e prática ...
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonfsp&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca5-santos&hide_progress=true)
 
 ##
 
@@ -31,8 +31,6 @@ Here are some ideas to get you started:
  </div>
  
 ##
-
-<a href="https://www.linkedin.com/in/edilsonfsp-cloud/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 
